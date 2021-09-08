@@ -8,5 +8,4 @@
 
 Integrantes do grupo de pesquisa Núcleo de Pesquisa e Computação Aplicada (NPCA <https://sites.google.com/view/npca-ufra/npca-home>).
 
-Universidade Federal Rural da Amazônia
-Núcleo de Pesqusa e Computação Aplicada
+:mortar_board: Universidade Federal Rural da Amazônia

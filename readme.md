@@ -4,6 +4,6 @@
  - Jupyter Notebook
  - Orange Data Mining
 
-# :pushpin: Autores
+## :pushpin: Autores
 
 Integrantes do grupo de pesquisa Núcleo de Pesquisa e Computação Aplicada (NPCA <https://sites.google.com/view/npca-ufra/npca-home>).
